@@ -1,6 +1,7 @@
 
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "대학사용법 2.0"
