@@ -9,7 +9,9 @@ website:
       - href: index.qmd
         text: 소개
       - href: toc.qmd
-        text: 목차 
+        text: 개정판 목차 
+      - href: 10_principles.qmd
+        text: 대학생활 필수지침 10가지  
       - href: license.qmd
         text: 라이선스
 
