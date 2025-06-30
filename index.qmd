@@ -12,7 +12,7 @@ date: today
 
 이 사이트는 [『헛짓 딴짓도 커리어가 되는 대학사용법: 사회에 필요한 진짜 인재로 성장하기』](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003198821) (세종서적 2014) 개정판을 위한 웹사이트입니다.
 
-초판의 독자분들 중에서 개정판 작업에 피드백을 통해 함께하고 싶으신 분은 이 [구글 설문지](https://docs.google.com/forms/d/e/1FAIpQLScdAk-cb7DGc7fCyuILVyUruAbODNzjOH0zTmGH9bODbgLAqQ/viewform)을 통해 의견을 남겨주세요.
+대학사용법 개정판은 2025년 6월 24일 세종서적과 출판 계약을 맺었고, 2026년 봄에 출판될 예정입니다.
 
 ::: {.callout-important title="📘 독자를 위한 세 가지 변화 포인트"}
 
